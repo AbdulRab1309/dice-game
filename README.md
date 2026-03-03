@@ -28,7 +28,7 @@ A fun, interactive two-player dice rolling game built with vanilla HTML, CSS, an
 
 ## 📁 Project Structure
 
-Dicee-Game/ ├── dicee.html # Main HTML page ├── styles.css # Styling ├── index.js # Game logic └── images/ # Dice face images (dice1.png - dice6.png)
+Dicee-Game/ ├── index.html # Main HTML page ├── styles.css # Styling ├── index.js # Game logic └── images/ # Dice face images (dice1.png - dice6.png)
 
 
 ## 🚀 Getting Started
